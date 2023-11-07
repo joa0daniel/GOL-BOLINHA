@@ -9,6 +9,8 @@ body {
 nav {
     background-color: #333;
     color: #fff;
+    padding: 10px 0; /* Adiciona um espaço acima e abaixo da barra de navegação */
+    text-align: center; /* Centraliza o conteúdo */
 }
 
 .navbar {
@@ -26,6 +28,8 @@ nav {
     text-decoration: none;
     color: #fff;
     font-weight: bold;
+    border: 1px solid #fff; /* Adiciona uma borda branca aos botões */
+    padding: 5px 15px; /* Adiciona espaço interno aos botões para melhorar a aparência */
 }
 
 h2 {
