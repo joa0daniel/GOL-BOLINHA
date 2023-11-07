@@ -1,7 +1,7 @@
 /* style.css */
 body {
     font-family: Arial, sans-serif;
-    background-image: url('gol-bola-gti-rebaixado.jpg'); /* Especifique o nome da sua imagem de fundo */
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fonlycars.com.br%2F2021%2F04%2Fgol-g2-gti-rebaixado-branco-rodas-aro-18.html&psig=AOvVaw2eDwRIG4kjJXHZVQDILWVn&ust=1699444016722000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjs1brosYIDFQAAAAAdAAAAABAm'); /* Especifique o nome da sua imagem de fundo */
     background-size: cover; /* A imagem de fundo cobrirá todo o corpo */
     background-repeat: no-repeat; /* Evita a repetição da imagem de fundo */
     background-attachment: fixed; /* Mantém a imagem de fundo fixa na tela enquanto você rola */
