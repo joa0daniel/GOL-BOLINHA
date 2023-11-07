@@ -1,7 +1,10 @@
 /* style.css */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-image: url('gol-bola-gti-rebaixado.jpg'); /* Especifique o nome da sua imagem de fundo */
+    background-size: cover; /* A imagem de fundo cobrirá todo o corpo */
+    background-repeat: no-repeat; /* Evita a repetição da imagem de fundo */
+    background-attachment: fixed; /* Mantém a imagem de fundo fixa na tela enquanto você rola */
     margin: 0;
     padding: 0;
 }
