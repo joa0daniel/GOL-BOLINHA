@@ -2,7 +2,7 @@ body {
     font-family: GFS Didot, sans-serif; 
     margin-top: 10; 
     padding: 0; 
-    background-color: rgb(79, 133, 180);
+    background-image: #3bbfe3;
     background-size: cover;  
     color: #000000; 
 }
