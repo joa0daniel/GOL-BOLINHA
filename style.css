@@ -2,7 +2,7 @@ body {
     font-family: GFS Didot, sans-serif; /* Define a fonte usada no corpo do documento */
     margin-top: 10; /* Remove margens padrão */
     padding: 0; /* Remove preenchimentos padrão */
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dho7wrv3R4Sg&psig=AOvVaw0v5F7phLhVv4MQN9iBIOd7&ust=1700047106176000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCODFyJWvw4IDFQAAAAAdAAAAABAS); /* Define a imagem de fundo do corpo */
+    background-image: url(); /* Define a imagem de fundo do corpo */
     background-size: cover;  /* Faz a imagem de fundo cobrir toda a área visível */
     color: #000000; /* Define a cor do texto  */
 }
