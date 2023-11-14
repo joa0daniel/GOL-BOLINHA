@@ -4,7 +4,7 @@ body {
     padding: 0; /* Remove preenchimentos padrão */
     background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dho7wrv3R4Sg&psig=AOvVaw0v5F7phLhVv4MQN9iBIOd7&ust=1700047106176000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCODFyJWvw4IDFQAAAAAdAAAAABAS); /* Define a imagem de fundo do corpo */
     background-size: cover;  /* Faz a imagem de fundo cobrir toda a área visível */
-    color: #9942fc; /* Define a cor do texto como rosa */
+    color: #000000; /* Define a cor do texto como rosa */
 }
 
 header {
@@ -42,7 +42,7 @@ nav ul li a {
     display: inline-block; /* Exibe o elemento com a classe "button" como bloco em linha */
     padding: 10px 20px; /* Adiciona preenchimento de px vertical e px horizontal */
     background-color: #241a30; /* Define a cor de fundo do botão */
-    color: #c6b0e1; /* Define a cor do texto do botão como rosa */
+    color: #000000; /* Define a cor do texto do botão como rosa */
     text-decoration: none; /* Remove a decoração de texto dos links do botão */
     font-weight: bold; /* Define o peso da fonte do botão como negrito */
     border-radius: 5px; /* Adiciona bordas arredondadas ao botão */
@@ -52,7 +52,7 @@ nav ul li a {
     text-align: center; /* Centraliza o texto no elemento <footer> */
     padding: 1px; /* Adiciona preenchimento de px ao redor do rodapé */
     background-color: transparent; /* Define a cor de fundo do rodapé como transparente */
-    color: #9942fc; /* Define a cor do texto do rodapé como rosa */
+    color: #000000; /* Define a cor do texto do rodapé como rosa */
 }
 
 .container {
@@ -65,7 +65,7 @@ nav ul li a {
 
 .square-block {
     background-color: #201633;
-    color: #9942fc;
+    color: #000000;
     padding: 20px;
     margin: 100px;
     border-radius: 10px;
@@ -98,7 +98,7 @@ form {
     margin: 0 auto;
     padding: 20px;
     background-color: #201633;
-    color: #9942fc;
+    color: #000000;
     border-radius: 10px;
 }
 
@@ -106,7 +106,7 @@ form label {
     display: block;
     margin-bottom: 5px;
     font-size: 18px;
-    color: #c6b0e1;
+    color: #000000;
 }
 
 
@@ -116,7 +116,7 @@ form textarea {
     width: 95%;
     padding: 8px;
     margin: 5px 0;
-    border: 4px solid #9942fc;
+    border: 4px solid #000000;
     border-radius: 15px;
     font-size: 16px;
     margin-top: 20px; /* uma margem negativa movee o input para cima */
@@ -124,8 +124,8 @@ form textarea {
 
 
 form input[type="submit"] {
-    background-color: #241a30;
-    color: #c6b0e1;
+    background-color: #000000;
+    color: #000000;
     font-weight: bold;
     border: none;
     border-radius: 5px;
@@ -137,7 +137,7 @@ form input[type="submit"] {
 .text-block {
     width: 300px;
     background-color: #201633;
-    color: #9942fc;
+    color: #000000;
     padding: 20px;
     margin: 10px;
     border-radius: 10px;
