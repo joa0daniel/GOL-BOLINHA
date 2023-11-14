@@ -29,7 +29,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none; /* Remove a decoração de texto (geralmente sublinhado) dos links */
-    color: #c6b0e1; /* Define a cor do texto dos links como roxo */
+    color: #000000; /* Define a cor do texto dos links como roxo */
     font-weight: bold; /* Define o peso da fonte como negrito */
 }
 
