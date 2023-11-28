@@ -1,102 +1,61 @@
 body {
-    margin-top: 10;
+    font-family: 'GFS Didot', serif;
+    margin: 0;
     padding: 0;
+    background-color: #f0f0f0;
 }
 
 header {
-    text-align: center; 
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
 }
 
 nav {
-    background-color: transparent; 
+    background-color: #444;
 }
 
-nav ul {
-    list-style: none; 
+ul {
+    list-style-type: none;
     padding: 0;
-    margin: 0; 
-    text-align: center; 
+    margin: 0;
 }
 
-nav ul li {
-    display: inline; 
-    margin: 0 10px;
+li {
+    display: inline;
+    margin-right: 10px;
 }
 
-nav ul li a {
-    text-decoration: none; 
-    color: #000000; 
-    font-weight: bold; 
-}
-
-.content {
-    text-align: center;
-    padding: 20px; 
-}
-
-.button {
-    display: inline-block; 
-    padding: 10px 20px; 
-    background-color: #241a30; 
-    color: #000000; 
-    text-decoration: none; 
-    font-weight: bold;
-    border-radius: 5px; 
-}
-
-.footer {
-    text-align: center; 
-    padding: 1px; 
-    background-color: transparent; 
-    color: #000000; 
+a {
+    text-decoration: none;
+    color: #fff;
 }
 
 .container {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
-    height: 80vh;
-    margin-top: 20px; 
+    flex-wrap: wrap;
+    margin: 20px;
 }
 
 .square-block {
-    background-color: #201633;
-    color: #000000;
+    background-color: #fff;
+    border: 1px solid #ddd;
     padding: 20px;
-    margin: 100px;
-    border-radius: 10px;
     text-align: center;
-    width: 300px;
-    height: 300px;
-    margin-bottom: 470px; 
-}
-
-.square-block h2 {
-    font-size: 24px;
-}
-
-.square-block p {
-    font-size: 18px;
-}
-
-.text-block {
-    width: 300px;
-    background-color: #201633;
-    color: #000000;
-    padding: 20px;
     margin: 10px;
-    border-radius: 10px;
-    text-align: center;
-    display: inline-block;
-    vertical-align: top;
+    width: 30%;
+    box-sizing: border-box;
 }
 
-.text-block h2 {
-    font-size: 24px;
-    margin: 0;
+h2 {
+    font-size: 2em;
+    color: #333;
 }
 
-.text-block p {
-    font-size: 18px;
-    margin: 0;
+p {
+    color: #666;
+    font-size: 1.2em;
 }
