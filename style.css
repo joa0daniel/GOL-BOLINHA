@@ -2,7 +2,7 @@ body {
     font-family: GFS Didot, sans-serif; 
     margin-top: 10;
     padding: 0;
-    background-image: url(Gol-Bola-96-carros-populares-antigos-2.jpg);
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fmotortudo.com%2Fgol-bola-96-o-ultimo-ano-da-injecao-monoponto-nas-veroes-intermediarias%2F&psig=AOvVaw1hSfJys3cfLFQzxnW_kTri&ust=1701254797379000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCi35bC5oIDFQAAAAAdAAAAABAD); 
    /* background-size: cover; */
     color: #000000; 
 }
@@ -33,6 +33,11 @@ nav ul li a {
     font-weight: bold; 
 }
 
+.content {
+    text-align: center;
+    padding: 20px; 
+}
+
 .button {
     display: inline-block; 
     padding: 10px 20px; 
@@ -46,7 +51,6 @@ nav ul li a {
 .footer {
     text-align: center; 
     padding: 1px; 
-    background-color: transparent; 
     color: #000000; 
 }
 
@@ -59,5 +63,38 @@ nav ul li a {
 }
 
 
+.square-block h2 {
+    font-size: 24px;
+}
 
+.square-block p {
+    font-size: 18px;
+}
 
+.text-block {
+    width: 300px;
+    color: #000000;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.text-block h2 {
+    font-size: 24px;
+    margin: 0;
+}
+
+.text-block p {
+    font-size: 18px;
+    margin: 0;
+}
+
+html
+{
+  position:fixed;
+  width:100%;
+  height:100%;
+}
